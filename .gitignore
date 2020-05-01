@@ -1,0 +1,5 @@
+node_modules/*
+.DS_Store
+1.jpg
+out0.yuv
+package-lock.json

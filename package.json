@@ -1,0 +1,18 @@
+{
+  "name": "decklink-yuv-output",
+  "version": "1.0.0",
+  "description": "Attempting to convert BGRA to YUV422 on the GPU using Javascript.",
+  "main": "index.js",
+  "dependencies": {
+    "gpu.js": "^2.9.3",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
